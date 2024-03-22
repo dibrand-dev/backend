@@ -1,0 +1,16 @@
+{
+  "name": "user",
+  "version": "1.0.0",
+  "main": "built/start.js",
+  "license": "Unlicense",
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "@types/aws-lambda": "^8.10.51",
+    "@types/node": "^18.15.8",
+    "typescript": "^5.0.2",
+    "aws-sdk": "^2.961.0",
+    "core": "file:../../layers/nodejs/Core/core"
+  }
+}
