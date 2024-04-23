@@ -20,11 +20,11 @@ Luego tenemos la carpeta "functions" que nos permite ejecutar todo nuestro "core
 - Communication interfaces must be in snake_case.
 - Object Oriented Programming.
 - Integration and unit tests.
-- Apply eslint style guide.
+- Apply slint style guide.
 
 ## Spanish
 - Mantener Arquitectura limpia (DDD, SOLID, OCP, etc.)
 - Las interfaces de comunicación deben ser en snake_case
 - Programación Orientada a Objetos.
 - Pruebas de integración y unitarias.
-- Aplicar guia de estilos de eslint.
+- Aplicar guia de estilos de slint.
